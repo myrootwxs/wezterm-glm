@@ -1,5 +1,7 @@
 # wezterm-glm
 
+[English](./README.md) | [简体中文](./README_zh.md)
+
 A [WezTerm plugin](https://wezterm.org/config/plugins.html) that shows Zhipu GLM coding-plan token usage and its next reset time in the right status bar.
 
 ## Requirements
